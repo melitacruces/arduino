@@ -2,7 +2,7 @@
   <img src="media/titulo-arduino.svg" alt="Arduino Logo" width="150" />
   <h1>Control de Acceso Biométrico con Arduino</h1>
   <p><strong>Sistema de acceso de doble factor (Huella Dactilar + PIN) con Arduino, Python y MySQL.</strong></p>
-  <p><a href="https://youtube.com/watch?v=JEN6ze8029M">Video tutorial en YouTube</a></p>
+  <p><a href="https://youtube.com/watch?v=JEN6ze8029M">Video Tutorial en YouTube</a></p>
 </div>
 
 ---
